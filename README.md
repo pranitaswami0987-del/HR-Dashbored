@@ -24,6 +24,7 @@ Data Modeling	Creating relationships and analytics structure
 The raw HR dataset was transformed using Power Query.
 
 Data Preparation Steps:
+
 ✅ Removed duplicate records
 ✅ Handled missing values
 ✅ Corrected inconsistent data types
